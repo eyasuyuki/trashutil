@@ -1,0 +1,1 @@
+scan source files and move to trash same name of destination file.
